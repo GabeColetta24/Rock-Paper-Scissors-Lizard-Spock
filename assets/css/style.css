@@ -20,7 +20,11 @@ body {
 
 /* Header */
 header {
-    background-color: blue;
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
 }
 
 /* Main Content */
