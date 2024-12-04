@@ -50,6 +50,7 @@ main {
     text-align: center;
 }
 
+/* Button to play.html styles */
 button {
     background-color: #4CAF50;
     color: white;
@@ -65,6 +66,7 @@ button:hover {
     background-color: #45a049;
 }
 
+/* Game container styles */
 .container {
     max-width: 600px;
     margin: auto;
@@ -79,6 +81,7 @@ h2 {
     margin-bottom: 20px;
 }
 
+/* Score tracker styles */
 .scores {
     display: flex;
     justify-content: space-between;
@@ -95,6 +98,7 @@ h2 {
     font-weight: bold;
 }
 
+/* Player and Computer choices styles */
 .choices {
     display: flex;
     justify-content: space-between;
