@@ -40,4 +40,11 @@ function determineWinner(player, computer) {
         Scissors: ['Paper', 'Lizard'],
         Lizard: ['Paper', 'Spock'],
         Spock: ['Rock', 'Scissors']
-    };}
+    };
+    // Determine winner
+    if (winningConditions[player].includes(computer)) {
+        return 'Player Wins!';
+    } else {
+        return 'Computer Wins!';
+    }
+}
