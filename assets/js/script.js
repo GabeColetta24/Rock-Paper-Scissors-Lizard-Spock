@@ -7,3 +7,5 @@ function playGame(playerChoice) {
 };
 // Randomly select a computer choice
 const computerChoice = choices[Math.floor(Math.random() * choices.length)];
+// Display the computer's choice
+document.getElementById('computer-choice-display').textContent = computerChoice;
