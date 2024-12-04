@@ -26,3 +26,18 @@ function playGame(playerChoice) {
     document.getElementById('player-score').textContent = playerScore;
     document.getElementById('computer-score').textContent = computerScore;
 }
+
+function determineWinner(player, computer) {
+    // Tie condition
+    if (player === computer) {
+        return "It's a Tie!";
+    }
+
+    // Winning combinations
+    const winningConditions = {
+        Rock: ['Scissors', 'Lizard'],
+        Paper: ['Rock', 'Spock'],
+        Scissors: ['Paper', 'Lizard'],
+        Lizard: ['Paper', 'Spock'],
+        Spock: ['Rock', 'Scissors']
+    };}
