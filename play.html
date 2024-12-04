@@ -1,26 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Meta tags for search engines -->
-     <meta name="description" content="Rock, Paper, Scissors, Lizard, Spock game vs computer">
-     <meta name="keywords" content="Rock, Paper, Scissors, Lizard, Spock">
+    <meta name="description" content="Rock, Paper, Scissors, Lizard, Spock game vs computer">
+    <meta name="keywords" content="Rock, Paper, Scissors, Lizard, Spock">
     <!-- Title -->
     <title>Rock, Paper, Scissors, Lizard, Spock</title>
     <!-- Stylesheet -->
-     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
     <!-- Header -->
-     <header>
+    <header>
         <a href="index.html">
             <h1 id="logo">Rock, Paper, Scissors, Lizard, Spock</h1>
         </a>
-     </header>
+    </header>
 
-     <!-- Main Content -->
-      <main>
+    <!-- Main Content -->
+    <main>
         <div class="container">
             <h2>Play vs Computer</h2>
             <div class="scores">
@@ -33,8 +35,19 @@
                     <div id="computer-score">0</div>
                 </div>
             </div>
+            <div class="choices">
+                <div class="player-choices">
+                    <h2>Make your choice</h2>
+                    <button onclick="playGame('Rock')">Rock</button>
+                    <button onclick="playGame('Paper')">Paper</button>
+                    <button onclick="playGame('Scissors')">Scissors</button>
+                    <button onclick="playGame('Lizard')">Lizard</button>
+                    <button onclick="playGame('Spock')">Spock</button>
+                </div>
+            </div>
         </div>
-      </main> 
-      
+    </main>
+
 </body>
+
 </html>
