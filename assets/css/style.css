@@ -131,6 +131,13 @@ h2 {
     margin-top: 10px;
 }
 
+/* Result display styles */
+#result {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
