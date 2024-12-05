@@ -6,6 +6,8 @@ This site is targeted towards people who are fans of the game Rock, Paper, Sciss
 
 ## Planning
 
+### Wireframes
+
 For my planning I created wireframes for my Home and Play pages.
 
 ![Wireframe of Homepage](assets/documentation/wireframe1.png)
@@ -13,6 +15,8 @@ For my planning I created wireframes for my Home and Play pages.
 ![Wireframe of Play vs Computer page](assets/documentation/wireframe2.png)
 
 I used the wireframes as a template to help me write the HTML and CSS code for each page.
+
+### Flowchart
 
 I also created a flowchart of how the game will work.
 
