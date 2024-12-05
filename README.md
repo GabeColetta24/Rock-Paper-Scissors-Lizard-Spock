@@ -12,6 +12,14 @@ For my planning I created wireframes for my Home and Play pages.
 
 ![Wireframe of Play vs Computer page](assets/documentation/wireframe2.png)
 
+I used the wireframes as a template to help me write the HTML and CSS code for each page.
+
+I also created a flowchart of how the game will work.
+
+![Flowchart of game](assets/documentation/flowchart.png)
+
+I used this flowchart as a template to help me write the JavaScript for the game.
+
 ## Existing Features
 
 ### Button to navigate to Play vs Computer page
