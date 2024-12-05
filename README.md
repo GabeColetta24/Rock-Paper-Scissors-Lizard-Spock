@@ -88,7 +88,11 @@ JavaScript No errors returned when passing through the official [JS Hint validat
 
 ## Bugs
 
+I had 2 errors in my HTML when I first put it through the validator. 
 
+The first error was that I had a button element within an anchor element. To fix this I had to remove the button element and style the anchor element to look and work like a button.
+
+The second error was that it couldn't find the closing tag to a p element on my home page. This was because I had an ul element within that p element. This was an easy fix as all I had to do was move the closing tag of the p element above the ul element.
 
 ## Deployment
 
