@@ -58,6 +58,12 @@ This is an image of the Play vs Computer page. This is the main feature of my we
 
 I added a score tracker displaying both the Player's and Computer's scores. On the left side is the list of options for the player to choose from. Once the player makes their choice the computer will generate a random choice and it will be displayed on the right side. My JavaScript will then determine the winner and display the result at the bottom. The score tracker will then be updated dependant on the result.
 
+## Feature I would've liked to add
+
+### A second computer for the user to play against
+
+I wold've liked to add a second computer for the user to play against. This computer wouldn't have had randomised choices and would've instead been programmed to mimic the users choice from the round before. The first computer choice will have ofcourse had to have been a set choice or randomised one as there would be no user choice to mimic. Unfortunately I didn't have the time to add this feature but it's definitely something I would like to add in the future.
+
 ## Testing
 
 
@@ -68,3 +74,12 @@ The site was deployed to GitHub pages. The steps to deploy are as follows: In th
 
 ## Credit
 
+### Content
+
+The content in the opening section of my Home page was taken from [The Big Bang Theory Wiki](https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock)
+
+### Media
+
+I got the image of the diagram of rules from Google images.
+
+The video on my Home page was taken from YouTube.
