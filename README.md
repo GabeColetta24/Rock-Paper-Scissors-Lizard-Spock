@@ -68,6 +68,26 @@ I wold've liked to add a second computer for the user to play against. This comp
 
 I tested all of the features and links in my website in the preview page first and then in the deployed version once I had pushed my changes.
 
+I also used the developer tool in chrome to ensure that the website looks and works correctly on different screen sizes. For example:
+
+The main content on my Home page will be pushed down on smaller screen sizes as the logo takes up more lines. This makes the main content visible on all screen sizes.
+
+The game display on my Play vs Computer page will also be pushed down for the same reason and will also become more of a vertical display once the screen size is to narrow to fit the content horizontally.
+
+### Game Testing
+
+I tested all aspects of my game once I attched the JavaScript to my HTML and it was all working as expected with no problems.
+
+### Validator Testing
+
+HTML No errors returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgabecoletta24.github.io%2FRock-Paper-Scissors-Lizard-Spock%2F)
+
+CSS No errors returned when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgabecoletta24.github.io%2FRock-Paper-Scissors-Lizard-Spock%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+JavaScript No errors returned when passing through the official [JS Hint validator](https://jshint.com/)
+
+## Bugs
+
 
 
 ## Deployment
