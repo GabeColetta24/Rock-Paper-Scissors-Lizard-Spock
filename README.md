@@ -66,6 +66,8 @@ I wold've liked to add a second computer for the user to play against. This comp
 
 ## Testing
 
+I tested all of the features and links in my website in the preview page first and then in the deployed version once I had pushed my changes.
+
 
 
 ## Deployment

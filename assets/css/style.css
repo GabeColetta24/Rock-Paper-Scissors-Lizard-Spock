@@ -180,6 +180,23 @@ h2 {
     font-weight: bold;
 }
 
+/* Media query: small tablets and phone screens (640px and below) */
+@media screen and (max-width: 640px){
+    /* Main content */
+    main {
+        /* Push main content down to accomadate larger header */
+        margin-top: 90px;
+    }
+}
+
+/* Media query: very small devices (405px and below) */
+@media screen and (max-width: 405px) {
+    /* Main content */
+    main {
+        margin-top: 120px; /* Push main content down by 120px */
+    }
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -192,7 +209,7 @@ h2 {
 
     /* Main content */
     main {
-        /* Push main content down to accomadate larger header */
+        /* Push main content down by 77px */
         margin-top: 77px;
     }
 }
